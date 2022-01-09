@@ -27,3 +27,12 @@ Technical details :
 
 Pattern Matching : Currenty the algorithm searches for messages with the follow pattern "INR XXXX.XXXX debited XXXXXX"
 
+
+
+UI design : 
+
+Played around with several iterations of UI design in Figma and finally decided to go with the below aesthetic whilst taking some liberties here and there.
+<img src="https://user-images.githubusercontent.com/46014247/148706103-87b90af0-97ed-495a-bb45-cefecf1f9750.png" width="100">
+
+
+Thank you :)
