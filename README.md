@@ -1,9 +1,9 @@
 # SpendAnalytics
 SpendAnalytics provides an overview of all your spending.
 
-Framework Used : React Native 
+<b>Framework Used : </b>React Native 
 
-Platform : Android
+<b>Platform : </b>Android
 
 <img src="https://user-images.githubusercontent.com/46014247/148705545-3fdeb87d-860e-49b3-be22-a96d28c57d6d.png" width="100">
 
